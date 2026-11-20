@@ -1,0 +1,15 @@
+# Local lesson data and atomic-save temporary files
+*.dat
+*.dat.*.tmp
+
+# Generated executables and compiler output
+*.exe
+*.o
+*.obj
+*.so
+*.dll
+*.pdb
+
+# Python bytecode
+__pycache__/
+*.py[cod]
